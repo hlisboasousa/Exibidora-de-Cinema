@@ -158,4 +158,3 @@ Os usuários que compoem o sistema são: dono do cinema, gerente, vendedor e dis
 | Responsabilidades:                                                              | Colaborações:     |
 |   *Ser capaz de adicionar uma taxa no valor do ingresso*;                       |                   |                 
 |   *Saber sua taxa*;                                                             |                   |  
-
